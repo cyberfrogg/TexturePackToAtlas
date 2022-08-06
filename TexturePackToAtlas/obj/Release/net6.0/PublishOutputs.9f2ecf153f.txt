@@ -1,0 +1,9 @@
+D:\CSharp-Projects\TPTA\public-fd\TexturePackToAtlas.exe
+D:\CSharp-Projects\TPTA\public-fd\TexturePackToAtlas.dll
+D:\CSharp-Projects\TPTA\public-fd\TexturePackToAtlas.deps.json
+D:\CSharp-Projects\TPTA\public-fd\TexturePackToAtlas.runtimeconfig.json
+D:\CSharp-Projects\TPTA\public-fd\TexturePackToAtlas.pdb
+D:\CSharp-Projects\TPTA\public-fd\Microsoft.Win32.SystemEvents.dll
+D:\CSharp-Projects\TPTA\public-fd\System.Drawing.Common.dll
+D:\CSharp-Projects\TPTA\public-fd\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CSharp-Projects\TPTA\public-fd\runtimes\win\lib\net6.0\System.Drawing.Common.dll
