@@ -1,6 +1,7 @@
 # TexturePackToAtlas
 This project allows you to convert minecraft texturepack to sprite atlas (single image).
-Application output type: Console App
+
+C# Application output type: Console App
 
 Example output: 
 
