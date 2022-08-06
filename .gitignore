@@ -8,6 +8,9 @@
 
 *.userprefs
 
+.idea/
+.vs/
+
 # Build results
 TexturePackToAtlas/bin/
 TexturePackToAtlas/obj/
